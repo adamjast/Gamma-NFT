@@ -1,13 +1,5 @@
 # Gamma-NFT
 
-GAMMA 
-  
-Γ - Greek numeral with a value of 3 to represent the 3 founding creators for this project
+Γ (GAMMA) - Greek numeral with a value of 3 to represent the 3 founding creators in this project
 
-  G - Generative
-  A - Audio
-  M - Minter 
-    (for)
-  M - Music  
-    (and)
-  A - Art
+Generative Audio Minter for Music and Art
