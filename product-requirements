@@ -1,0 +1,34 @@
+
+
+THE PRODUCT MUST DO THIS:
+
+  PHASE 1 ( HACKATHON )
+    
+    SET
+    - ...
+    
+    PENDING
+    - upload users graphic NFT
+    - validate users graphic NFT
+    - option of minting infinite amount of NFT's
+    - charge a fee on "mint" ( switchable: on/off )
+    - generate a new NFT with previously given graphic and newly created audio
+      - midi data on-chain 
+      - charge a royalty on "second hand market" ( switchable: percent )
+      - audio influenced by given graphic NFT
+        - capture random data points from graphic NFT
+        - generate midi track files
+    - web audio playback and graphic display of rendered NFT
+    
+    THOUGHTS
+    - "Attached to master", force NFT to be transfered if "master" is transfered.
+    
+  PHASE * ( TBD )
+  Future "after hackathon"
+     - users can manipulate audio
+     
+
+  TRASH BIN
+  Agreed to not execute
+  Schema: "idea details - reason for removal"
+    - ...
